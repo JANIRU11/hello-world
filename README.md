@@ -1,2 +1,3 @@
 # hello-world
-Created for a Sugar labs task for bits task A1
+This is created for sugar labs task - "make a pull request"
+And for bits task A1
